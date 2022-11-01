@@ -1,2 +1,4 @@
 # AutoLoliActivation 
-AutoLoliActivation - Program for easy activation of Microsoft products.
+AutoLoliActivation - Небольшая программа для активации продукции Microsoft.
+PS. - На данном этапе доступна только активация Windows 10 / 11.
+Могут присутствовать ошибки, будьте акуратны при использовании!
